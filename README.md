@@ -1,2 +1,4 @@
 # hello-world
-just try to use it
+hi
+I'm just typing some words...
+trying to konw more about github
